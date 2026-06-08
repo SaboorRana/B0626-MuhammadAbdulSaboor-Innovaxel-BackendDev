@@ -1,0 +1,48 @@
+[
+  {
+    "Id": "3754bc3e",
+    "Name": "Tech",
+    "TotalSeats": 2,
+    "Date": "2026-08-08T08:49:46.574Z",
+    "Registrations": [
+      {
+        "UserName": "ALi",
+        "RegisteredAt": "2026-06-08T08:51:39.2437016Z",
+        "IsCancelled": true,
+        "CancelledAt": "2026-06-08T08:52:49.6700742Z"
+      },
+      {
+        "UserName": "Ahmad",
+        "RegisteredAt": "2026-06-08T08:52:09.201337Z",
+        "IsCancelled": false,
+        "CancelledAt": null
+      },
+      {
+        "UserName": "Ali",
+        "RegisteredAt": "2026-06-08T09:04:04.8651322Z",
+        "IsCancelled": true,
+        "CancelledAt": "2026-06-08T09:56:34.0515063Z"
+      },
+      {
+        "UserName": "Haider",
+        "RegisteredAt": "2026-06-08T10:09:24.0267802Z",
+        "IsCancelled": true,
+        "CancelledAt": "2026-06-08T10:09:56.8837461Z"
+      }
+    ]
+  },
+  {
+    "Id": "2b532674",
+    "Name": "MVC show",
+    "TotalSeats": 2147483647,
+    "Date": "2026-10-08T09:54:11.928Z",
+    "Registrations": []
+  },
+  {
+    "Id": "ce61fff9",
+    "Name": "abc",
+    "TotalSeats": 2147483647,
+    "Date": "2026-08-08T10:07:18.209Z",
+    "Registrations": []
+  }
+]

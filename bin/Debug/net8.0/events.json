@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "3754bc3e",
+    "Name": "Tech",
+    "TotalSeats": 2,
+    "Date": "2026-08-08T08:49:46.574Z",
+    "Registrations": [
+      {
+        "UserName": "ALi",
+        "RegisteredAt": "2026-06-08T08:51:39.2437016Z",
+        "IsCancelled": true,
+        "CancelledAt": "2026-06-08T08:52:49.6700742Z"
+      },
+      {
+        "UserName": "Ahmad",
+        "RegisteredAt": "2026-06-08T08:52:09.201337Z",
+        "IsCancelled": false,
+        "CancelledAt": null
+      }
+    ]
+  }
+]
