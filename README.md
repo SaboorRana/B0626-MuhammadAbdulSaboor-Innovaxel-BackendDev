@@ -1,2 +1,10 @@
 # B0626-MuhammadAbdulSaboor-Innovaxel-BackendDev
-Event Registration System API - Take Home Assessment for Innovaxel Backend Developer Intern position. Built with ASP.NET Core Web API, featuring thread-safe registration, JSON persistence, and Swagger documentation.
+## 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1kmWZdRSm4E7HrEuUpafobNCKgH_ba6AW/view?usp=sharing)
+
+## 📋 About
+Take-home assessment for **Innovaxel Backend Developer Intern** position. A RESTful API for managing event registrations with limited seats, duplicate prevention, and proper error handling.
+
+## 🚀 Quick Start
+```bash
+dotnet run
